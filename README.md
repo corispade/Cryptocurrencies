@@ -6,6 +6,8 @@ Using unsupervised machine learning to create an analysis on a dataset of crypto
 
 ## Process:
 
+View code [here](https://github.com/corispade/Cryptocurrencies/blob/main/crypto_clustering.ipynb) for reference of below deliverables.
+
 Deliverable 1: Using Pandas to preprocess and clean the data set
 * Keep all cryptocurrencies that are currently being traded
 * Remove rows with at least one null value
@@ -46,39 +48,35 @@ Dependencies: Pandas, Scikit-Learn, Plotly
 
 Preprocessed DataFrame for PCA analysis
 
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D1_Cleaned_DF.png)
 
 ### Deliverable 2: 
 
 DataFrame presenting three principal components for K-means analysis
 
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D2_PCA_DF.png)
 
 ### Deliverable 3: 
 
 Elbow curve informed from PCA analysis
 
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D3_Elbow_Curve.png)
 
 Cleaned DataFrame with class predictions for visualization
 
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D3_Combined_DF.png)
 
 ### Deliverable 4: 
 
 3D scatter plot to visualize the three clusters
 
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D4_3D_Plot.png)
 
 Table of tradable cryptocurrencies
 
-![image]()
-
-Total Coin Supply and Total Coins Mined scaled DataFrame
-
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D4_Tradable_Table.png)
 
 Scatter plot showing Total Coin Supply and Total Coins Mined by clusters
 
-![image]()
+![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D4_Scatter.png)
 
