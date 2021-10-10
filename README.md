@@ -68,7 +68,7 @@ Cleaned DataFrame with class predictions for visualization:
 
 ### Deliverable 4: 
 
-3D scatter plot to visualize the three clusters:
+3D scatter plot to visualize the four clusters:
 
 ![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D4_3D_Plot.png)
 
@@ -76,7 +76,7 @@ Table of tradable cryptocurrencies:
 
 ![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D4_Tradable_Table.png)
 
-Scatter plot showing Total Coin Supply and Total Coins Mined by clusters:
+Scatter plot showing Total Coin Supply and Total Coins Mined by Class:
 
 ![image](https://github.com/corispade/Cryptocurrencies/blob/main/Images/D4_Scatter.png)
 
